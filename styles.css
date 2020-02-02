@@ -74,8 +74,8 @@ page {
     }
 }
 
-/* Tablet Styles */
-@media only screen and (min-width: 401px) and (max-width: 960px) {
+/* Tablet and Desktop Styles (no change at 960) */
+@media only screen and (min-width: 401px) {
   body {
     background-color: white; /* Yellow */
     }
@@ -104,12 +104,4 @@ page {
         max-width: 500px;
     }
 
-}
-
-/* Desktop Styles */
-@media only screen and (min-width: 961px) {
-  body {
-    background-color: white; /* Blue */
-  }
-  body {font-family: 'Cormorant Garamond', serif; font-color: black;  font-size: 16px;}
 }
