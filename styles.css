@@ -75,7 +75,7 @@ page {
 }
 
 /* Tablet and Desktop Styles (no change at 960) */
-@media only screen and (min-width: 401px) {
+@media only screen and (min-width: 401px) and (max-width: 600px) {
   body {
     background-color: white; /* Yellow */
     }
@@ -89,18 +89,56 @@ page {
   .links {
     background-color: white;
     margin: 20px 50px 0px 50px;
-    text-align: left;
-            max-width: 500px;
+    text-align: center;
+    max-width: 500px;
   }
 
   .about-title{
-        text-align: left;
+        text-align: center;
         margin: 50px 50px 0px 50px;
               }
 
   .text{
         text-align: center;
-        margin: 10px 50px 10px 50px;
+        margin-top: 10px;
+        margin-left: 50px;
+        margin-bottom: 10px;
+        margin-right: 50px;
+        max-width: 500px;
+    }
+
+}
+
+/* Tablet and Desktop Styles (no change at 960) setting this for automargins */
+@media only screen and (min-width: 600px) {
+  body {
+    background-color: white; /* Yellow */
+    }
+  body {font-family: 'Cormorant Garamond', serif; font-color: black;  font-size: 16px;}
+
+  .content,
+  .pages,
+  .fotosito {
+    }
+
+  .links {
+    background-color: white;
+    margin: 20px 50px 0px 50px;
+    text-align: center;
+    max-width: 500px;
+  }
+
+  .about-title{
+        text-align: center;
+        margin: 50px 50px 0px 50px;
+              }
+
+  .text{
+        text-align: center;
+        margin-top: 10px;
+        margin-left: auto;
+        margin-bottom: 10px;
+        margin-right: auto;
         max-width: 500px;
     }
 
