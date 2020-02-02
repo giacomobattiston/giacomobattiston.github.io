@@ -4,12 +4,10 @@
   box-sizing: border-box;
 }
 
-
 page {
   display: flex;
   flex-wrap: wrap;
 }
-
 
 .section {
   width: 100%;
@@ -38,7 +36,6 @@ page {
   display: block;
 }
 
-
 .pages {
   background-color: white;
   height: 100px;
@@ -50,7 +47,7 @@ page {
   background-color: white;
 }
 
-.about-text {
+.text {
   background-color: white;
 }
 
@@ -64,11 +61,6 @@ page {
 .content div,
 .content1 div,
 .content2 div {
-
-}
-
-.research-text {
-  background-color: white;
 }
 
 /* Mobile Styles */
@@ -86,13 +78,10 @@ page {
     }
   body {font-family: 'Cormorant Garamond', serif; font-color: black;  font-size: 16px;}
 
-
-
   .content,
   .pages,
   .fotosito {
     }
-
 
   .links {
     background-color: white;
@@ -104,14 +93,11 @@ page {
         text-align: left;
         margin: 50px 50px 0px 50px;
               }
-  .about-text{
+
+  .text{
         text-align: center;
         margin: 10px 50px 10px 50px;
-}
-  .research-text{
-        text-align: center;
-        margin: 10px 50px 10px 50px;
-              }
+    }
 }
 
 /* Desktop Styles */
@@ -120,5 +106,4 @@ page {
     background-color: white; /* Blue */
   }
   body {font-family: 'Cormorant Garamond', serif; font-color: black;  font-size: 16px;}
-
 }
