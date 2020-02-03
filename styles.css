@@ -74,10 +74,18 @@ page {
     background-color: white; /* Red */
   }
   body {font-family: 'Cormorant Garamond', serif; font-color: black;  font-size: 16px;}
+
   .text{
         text-align: center;
-        margin: 10px 15px 50px 15px;
+        margin: 10px 15px 0px 15px;
     }
+
+  .links {
+    background-color: white;
+    margin: 10px 15px 50px 15px;
+    text-align: left;
+    max-width: 500px;
+  }
 }
 
 /* Tablet and Desktop Styles (no change at 960) */
