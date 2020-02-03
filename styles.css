@@ -142,13 +142,4 @@ page {
         max-width: 500px;
     }
 
-  .name{
-    text-align: center;
-    margin-top: 10px;
-    margin-left: auto;
-    margin-bottom: 10px;
-    margin-right: auto;
-    max-width: 500px;
-  }
-
 }
