@@ -64,10 +64,6 @@ page {
 }
 }
 
-.content div,
-.content1 div,
-.content2 div {
-}
 
 /* Mobile Styles */
 @media only screen and (max-width: 400px) {
@@ -92,6 +88,15 @@ page {
     text-align: left;
     max-width: 500px;
   }
+
+  .text-left{
+        text-align: left;
+    }
+
+  .text-right{
+        text-align: left;
+    }
+
 }
 
 /* Tablet and Desktop Styles (no change at 960) */
@@ -127,6 +132,14 @@ page {
           margin-left: 50px;
           margin-right: 50px;
           max-width: 500px;
+      }
+
+    .text-left{
+          text-align: left;
+      }
+
+    .text-right{
+          text-align: right;
       }
 
 }
@@ -170,4 +183,11 @@ page {
           max-width: 500px;
       }
 
+    .text-left{
+          text-align: left;
+      }
+
+    .text-right{
+          text-align: right;
+      }
 }
