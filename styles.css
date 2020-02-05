@@ -1,7 +1,11 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+p {
+  margin: 0px;
+  padding: 0px;
+}
+
+h3 {
+  margin: 0px;
+  padding: 0px;
 }
 
 html,body {
@@ -80,7 +84,7 @@ page {
 
   .text{
         text-align: justify;
-        margin: 10px 15px 0px 15px;
+        margin: 10px 15px 0px 10px;
     }
 
   .links {
@@ -137,10 +141,12 @@ page {
 
     .text-left{
           text-align: left;
+
       }
 
     .text-right{
           text-align: right;
+
       }
 
 }
@@ -186,9 +192,11 @@ page {
 
     .text-left{
           text-align: left;
+
       }
 
     .text-right{
           text-align: right;
+
       }
 }
