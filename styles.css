@@ -39,12 +39,6 @@ page {
   background-color: white;
 }
 
-.fotosito {
-  background-color: white;
-  height: 150px;
-  width: 150px;
-  display: block;
-}
 
 .pages {
   background-color: white;
@@ -82,6 +76,13 @@ page {
         margin: 10px 15px 0px 15px;
     }
 
+  .fotosito {
+    background-color: white;
+    height: 150px;
+    width: 150px;
+    display: block;
+    }
+
   .text{
         text-align: justify;
         margin: 10px 15px 0px 10px;
@@ -112,9 +113,15 @@ page {
   body {font-family: 'Cormorant Garamond', serif; font-color: black;  font-size: 16px;}
 
   .content,
-  .pages,
-  .fotosito {
+  .pages {
     }
+
+  .fotosito {
+  background-color: white;
+  height: 150px;
+  width: 150px;
+  display: block;
+}
 
   .links {
     background-color: white;
