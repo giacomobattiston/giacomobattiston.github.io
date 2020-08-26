@@ -159,9 +159,15 @@ page {
   body {font-family: 'Cormorant Garamond', serif; font-color: black;  font-size: 16px;}
 
   .content,
-  .pages,
-  .fotosito {
+  .pages {
     }
+
+  .fotosito {
+  background-color: white;
+  height: 200px;
+  width: 200px;
+  display: block;
+}
 
   .links {
     background-color: white;
