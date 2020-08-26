@@ -39,15 +39,6 @@ page {
   background-color: white;
 }
 
-
-.pages {
-  background-color: white;
-  height: 150px;
-  width: 150px;
-  margin-left: 20px;
-  text-align: right;
-}
-
 .about-title {
   background-color: white;
 }
@@ -70,6 +61,15 @@ page {
     background-color: white; /* Red */
   }
   body {font-family: 'Cormorant Garamond', serif; font-color: black;  font-size: 16px;}
+
+
+  .pages {
+  background-color: white;
+  height: 150px;
+  width: 150px;
+  margin-left: 20px;
+  text-align: right;
+}
 
   .content{
         text-align: justify;
@@ -112,9 +112,16 @@ page {
     }
   body {font-family: 'Cormorant Garamond', serif; font-color: black;  font-size: 16px;}
 
-  .content,
-  .pages {
+  .content {
     }
+
+  .pages {
+  background-color: white;
+  height: 150px;
+  width: 150px;
+  margin-left: 20px;
+  text-align: right;
+}
 
   .fotosito {
   background-color: white;
@@ -165,9 +172,16 @@ page {
     }
   body {font-family: 'Cormorant Garamond', serif; font-color: black;  font-size: 16px;}
 
-  .content,
-  .pages {
+  .content {
     }
+
+  .pages {
+  background-color: white;
+  height: 250px;
+  width: 250px;
+  margin-left: 20px;
+  text-align: right;
+}
 
   .fotosito {
   background-color: white;
