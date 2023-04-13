@@ -60,7 +60,7 @@ page {
   body {
     background-color: white; /* Red */
   }
-  body {font-family: 'Helvetica', 'Arial', sans-serif; font-color: black;  font-size: 13px; line-height: 1.5;}
+  body {font-family: 'Helvetica', 'Arial', sans-serif; font-color: black;  font-size: 13px; line-height: 2;}
 
 
   .pages {
@@ -110,7 +110,7 @@ page {
   body {
     background-color: white; /* Yellow */
     }
-  body {font-family: 'Helvetica', 'Arial', sans-serif; font-color: black;  font-size: 13px; line-height: 1.5;}
+  body {font-family: 'Helvetica', 'Arial', sans-serif; font-color: black;  font-size: 13px; line-height: 2;}
 
   .content {
     }
@@ -170,7 +170,7 @@ page {
   body {
     background-color: white; /* Yellow */
     }
-  body {font-family: 'Helvetica', 'Arial', sans-serif; font-color: black;  font-size: 13px; line-height: 1.5;}
+  body {font-family: 'Helvetica', 'Arial', sans-serif; font-color: black;  font-size: 13px; line-height: 2;}
 
   .content {
     }
@@ -235,7 +235,7 @@ page {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 13px; line-height: 1.5;
+  font-size: 13px; line-height: 2;
 
 }
 
