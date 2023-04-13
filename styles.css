@@ -60,7 +60,7 @@ page {
   body {
     background-color: white; /* Red */
   }
-  body {font-family: 'Helvetica', 'Arial', sans-serif; font-color: black;  font-size: 13px; line-height: 5px;}
+  body {font-family: 'Helvetica', 'Arial', sans-serif; font-color: black;  font-size: 13px; line-height: 20px;}
 
 
   .pages {
