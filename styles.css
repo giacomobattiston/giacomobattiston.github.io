@@ -63,9 +63,6 @@ page {
     background-color: white; /* Red */
   }
   body {font-family: 'Times New Roman', sans-serif; font-color: green;  font-size: 4px; line-height: 1.5;
-      -webkit-text-size-adjust: none;
-        -webkit-text-fill-color: rgba(100, 200, 0, 1);
--webkit-opacity: 1;
   }
 
 
@@ -116,7 +113,7 @@ page {
   body {
     background-color: white; /* Yellow */
     }
-  body {font-family: 'Times New Roman', sans-serif; font-color: green;  font-size: 13px; line-height: 1.5;}
+  body {font-family: 'Helvetica', 'Arial', sans-serif; font-color: black;  font-size: 13px; line-height: 1.5;}
 
   .content {
     }
@@ -176,7 +173,7 @@ page {
   body {
     background-color: white; /* Yellow */
     }
-  body {font-family: 'Times New Roman', sans-serif; font-color: green;  font-size: 13px; line-height: 1.5;}
+  body {font-family: 'Helvetica', 'Arial', sans-serif; font-color: black;  font-size: 13px; line-height: 1.5;}
 
   .content {
     }
