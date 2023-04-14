@@ -173,7 +173,7 @@ page {
   body {
     background-color: white; /* Yellow */
     }
-  body {font-family: 'Helvetica', 'Arial', sans-serif; font-color: black;  font-size: 13px; line-height: 1.5;}
+  body {font-family: 'Helvetica', 'Arial', sans-serif; font-color: black;  font-size: 10px; line-height: 1.5;}
 
   .content {
     }
