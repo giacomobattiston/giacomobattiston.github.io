@@ -1,4 +1,7 @@
-
+/*p {
+  margin: 0px;
+  padding: 0px;
+}
 
 h3 {
   margin: 0px;
@@ -52,7 +55,7 @@ page {
     justify-content: space-between;
 }
 }
-
+*/
 
 /* Mobile Styles */
 @media only screen and (max-width: 400px) {
