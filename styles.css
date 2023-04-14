@@ -1,8 +1,57 @@
-p {
+
+
+h3 {
   margin: 0px;
   padding: 0px;
 }
 
+
+html,body {
+  text-size-adjust: none;
+  -webkit-text-size-adjust: none;
+  -moz-text-size-adjust: none;
+  -ms-text-size-adjust: none;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+
+page {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.name{
+      text-align: center;
+      margin-top: 20px;
+      margin-bottom: 20px;
+            }
+
+.section {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.links {
+  background-color: white;
+}
+
+.about-title {
+  background-color: white;
+}
+
+.text {
+  background-color: white;
+}
+
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+}
 
 
 /* Mobile Styles */
