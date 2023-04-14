@@ -38,6 +38,16 @@ h3 {
   align-items: center;
 }
 
+
+page {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
+.links {
+  background-color: white;
+}
 /*
 
 
@@ -51,15 +61,6 @@ html,body {
 }
 
 
-page {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-
-.links {
-  background-color: white;
-}
 
 
 
