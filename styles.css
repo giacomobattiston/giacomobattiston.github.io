@@ -18,6 +18,16 @@ html,body {
 }
 
 
+page {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.name{
+      text-align: center;
+      margin-top: 20px;
+      margin-bottom: 20px;
+            }
 
 
 /* Mobile Styles */
