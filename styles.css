@@ -8,6 +8,15 @@ h3 {
   padding: 0px;
 }
 
+.about-title {
+  background-color: white;
+}
+
+.text {
+  background-color: white;
+}
+
+
 /*
 
 
@@ -44,13 +53,6 @@ page {
   background-color: white;
 }
 
-.about-title {
-  background-color: white;
-}
-
-.text {
-  background-color: white;
-}
 
 .content {
     display: flex;
