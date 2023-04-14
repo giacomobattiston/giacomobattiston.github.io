@@ -69,11 +69,13 @@ page {
   width: 150px;
   margin-left: 20px;
   text-align: right;
+      font-family: 'Times New Roman', sans-serif; font-color: green;  font-size: 4px; line-height: 1.5;
 }
 
   .content{
         text-align: justify;
         margin: 10px 15px 0px 15px;
+      font-family: 'Times New Roman', sans-serif; font-color: green;  font-size: 4px; line-height: 1.5;
     }
 
   .fotosito {
@@ -86,6 +88,7 @@ page {
   .text{
         text-align: justify;
         margin: 10px 15px 0px 10px;
+      font-family: 'Times New Roman', sans-serif; font-color: green;  font-size: 4px; line-height: 1.5;
     }
 
   .links {
@@ -97,10 +100,12 @@ page {
 
   .text-left{
         text-align: left;
+      font-family: 'Times New Roman', sans-serif; font-color: green;  font-size: 4px; line-height: 1.5;
     }
 
   .text-right{
         text-align: left;
+      font-family: 'Times New Roman', sans-serif; font-color: green;  font-size: 4px; line-height: 1.5;
     }
 
 }
