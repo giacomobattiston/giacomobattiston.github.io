@@ -16,6 +16,12 @@ h3 {
   background-color: white;
 }
 
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+}
 
 /*
 
@@ -54,12 +60,7 @@ page {
 }
 
 
-.content {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-}
-}
+
 */
 
 /* Mobile Styles */
