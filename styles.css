@@ -62,10 +62,49 @@ page {
 
 
   body {
-    background-color: white; font-family: 'Helvetica', 'Arial', sans-serif; font-color: green;  font-size: 13px; line-height: 1.5;
+    background-color: white; font-family: 'Helvetica', 'Arial', sans-serif; font-color: green;  font-size: 13px; line-height: 4;
+  }
+/*
+  .pages {
+  background-color: white;
+  height: 150px;
+  width: 150px;
+  margin-left: 20px;
+  text-align: right;
+}
+
+  .content{
+        text-align: justify;
+        margin: 10px 15px 0px 15px;
+    }
+
+  .fotosito {
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    display: block;
+    }
+
+  .text{
+        text-align: justify;
+        margin: 10px 15px 0px 10px;
+    }
+
+  .links {
+    background-color: white;
+    margin: 10px 15px 50px 15px;
+    text-align: left;
+    max-width: 500px;
   }
 
+  .text-left{
+        text-align: left;
+    }
 
+  .text-right{
+        text-align: left;
+    }
+*/
 }
 
 /* Tablet and Desktop Styles (no change at 960) */
@@ -75,7 +114,6 @@ page {
     }
   body {font-family: 'Helvetica', 'Arial', sans-serif; font-color: black;  font-size: 13px; line-height: 1.5;}
 
-  /*
   .content {
     }
 
@@ -126,7 +164,6 @@ page {
           text-align: right;
 
       }
-   */
 
 }
 
