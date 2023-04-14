@@ -64,6 +64,12 @@ page {
   body {
     background-color: white; font-family: 'Helvetica', 'Arial', sans-serif; font-color: green;  font-size: 13px; line-height: 1.5;
   }
+
+      .text{
+        text-align: justify;
+        margin: 10px 15px 0px 10px;
+    }
+
 /*
   .pages {
   background-color: white;
@@ -85,10 +91,6 @@ page {
     display: block;
     }
 
-  .text{
-        text-align: justify;
-        margin: 10px 15px 0px 10px;
-    }
 
   .links {
     background-color: white;
