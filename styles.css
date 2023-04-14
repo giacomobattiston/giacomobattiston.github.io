@@ -37,25 +37,6 @@ page {
   align-items: center;
 }
 
-.links {
-  background-color: white;
-}
-
-.about-title {
-  background-color: white;
-}
-
-.text {
-  background-color: white;
-}
-
-.content {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-}
-}
-
 
 /* Mobile Styles */
 @media only screen and (max-width: 400px) {
