@@ -60,11 +60,8 @@ page {
 
 
   body {
-    background-color: white; /* Red */
+    background-color: white; font-family: 'Times New Roman', sans-serif; font-color: green;  font-size: 4px; line-height: 1.5;
   }
-  body {font-family: 'Times New Roman', sans-serif; font-color: green;  font-size: 4px; line-height: 1.5;
-  }
-
 
   .pages {
   background-color: white;
