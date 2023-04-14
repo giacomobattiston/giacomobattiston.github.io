@@ -73,8 +73,60 @@ page {
   body {
     background-color: white; /* Yellow */
     }
-  body {font-family: 'Helvetica', 'Arial', sans-serif; font-color: black;  font-size: 13px; line-height: 4;}
+  body {font-family: 'Helvetica', 'Arial', sans-serif; font-color: black;  font-size: 13px; line-height: 1.5;}
 
+  /*
+  .content {
+    }
+
+  .pages {
+  background-color: white;
+  height: 150px;
+  width: 150px;
+  margin-left: 20px;
+  text-align: right;
+}
+
+  .fotosito {
+  background-color: white;
+  height: 150px;
+  width: 150px;
+  display: block;
+}
+
+  .links {
+    background-color: white;
+    margin: 20px 50px 0px 50px;
+    text-align: left;
+    max-width: 500px;
+  }
+
+  .text{
+        text-align: justify;
+        margin-top: 10px;
+        margin-left: 50px;
+        margin-bottom: 10px;
+        margin-right: 50px;
+        max-width: 500px;
+    }
+
+    .content{
+          text-align: justify;
+          margin-left: 50px;
+          margin-right: 50px;
+          max-width: 500px;
+      }
+
+    .text-left{
+          text-align: left;
+
+      }
+
+    .text-right{
+          text-align: right;
+
+      }
+   */
 
 }
 
